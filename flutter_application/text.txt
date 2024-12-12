@@ -1,0 +1,6 @@
+
+
+
+
+ The Health team registers the partner application information including an application package name and signature (sha256), 
+ with an available data type scope in the Samsung system.
